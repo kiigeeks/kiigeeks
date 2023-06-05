@@ -1,7 +1,7 @@
 # Hi Everyone 👋
 
 ## 💫 About Me:
-🤓 I am Fullstack Web Developer<br>🤩 Make new experience
+🤓 I am Fullstack Web Developer<br>🤩 Keep Learning
 
 
 ## 🌐 Socials:
